@@ -4,8 +4,8 @@ Objective: build simple BI pattern in Azure Databricks
 
 Deliverables:
 
-ELTS (starmodel)
-Source control
-Orchestration
-Semantic model
-Write doc regarding people skill fit/gap
+1. ELTS (starmodel)
+2. Source control
+3. Orchestration
+4. Semantic model
+5. Write doc regarding people skill fit/gap
